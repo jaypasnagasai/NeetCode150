@@ -1,2 +1,2 @@
 # 125 - Valid Palindrome
-# Difficulty: Easy
+## Difficulty: Easy
