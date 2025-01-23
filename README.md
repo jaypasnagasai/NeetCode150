@@ -5,6 +5,6 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 # INDEX
 
 **DAY 1, 01/23**: *Two Pointer*
-- [ValidPalindrome](validpalindrome.md)
-- [TwoSumII](TwoSumII.md)
+- [Valid Palindrome](validpalindrome.md)
+- [Two Sum II](TwoSumII.md)
 - [3Sum](3Sum.md)
