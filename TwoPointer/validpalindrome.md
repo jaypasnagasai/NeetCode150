@@ -30,3 +30,15 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 ## SOLUTION
 
+### APPROACH: REVERSE STRING
+
+```python
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        newStr = ""
+
+        for c in s:
+            if c.isaln():
+                newStr += c.islower()
+        return newStr == newStr[::-1]
+```
