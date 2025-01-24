@@ -5,6 +5,6 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 ## INDEX
 
 #### TWO POINTER [01/23/2025]
-- [125 - Valid Palindrome](TwoPointer/validpalindrome.md)
+- [125 - Valid Palindrome](TwoPointer/ValidPalindrome.md)
 - [167. Two Sum II - Input Array Is Sorted](TwoPointer/TwoSumII.md)
 - [15. 3Sum](TwoPointer/3Sum.md)
