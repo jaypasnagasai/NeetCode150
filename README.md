@@ -12,4 +12,4 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 #### TWO POINTER + STACK [01/24/2025]
 - [11 - Container With Most Water](TwoPointer/WaterContainer.md)
 - [42. Trapping Rain Water](TwoPointer/TrappingRainWater.md)
-- [15. 3Sum](Stack/ValidParentheses.md)
+- [20. Valid Parentheses](Stack/ValidParentheses.md)
