@@ -1,4 +1,4 @@
-# 000. Generate Parentheses
+# 22. Generate Parentheses
 Difficulty: Medium
 
 ## QUESTION
