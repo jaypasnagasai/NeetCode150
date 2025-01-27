@@ -23,3 +23,8 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 - [739 - Daily Temperatures](Stack/DailyTemperatures.md)
 - [853. Car Fleet](Stack/CarFleet.md)
 - [84. Largest Rectangle In Histogram](Stack/LargestRectangle.md)
+
+#### STACK [01/26/2025]
+- [217 - Contains Duplicate](Arrays&Hashing/ContainsDuplicate.md)
+- [242. Valid Anagram](Arrays&Hashing/ValidAnagram.md)
+- [1. Two Sum](Arrays&Hashing/TwoSum.md)
