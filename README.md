@@ -13,3 +13,13 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 - [11 - Container With Most Water](TwoPointer/WaterContainer.md)
 - [42. Trapping Rain Water](TwoPointer/TrappingRainWater.md)
 - [20. Valid Parentheses](Stack/ValidParentheses.md)
+
+#### STACK [01/25/2025]
+- [155 - Min Stack](Stack/MinStack.md)
+- [150. Evaluate Reverse Polish Notation](Stack/ReversePolishNotation.md)
+- [22. Generate Parentheses](Stack/GenerateParentheses.md)
+
+#### STACK [01/26/2025]
+- [739 - Daily Temperatures](Stack/DailyTemperatures.md)
+- [853. Car Fleet](Stack/CarFleet.md)
+- [84. Largest Rectangle In Histogram](Stack/LargestRectangle.md)
