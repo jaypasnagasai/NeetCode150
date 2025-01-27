@@ -1,4 +1,4 @@
-# 000. Daily Temperatures
+# 739. Daily Temperatures
 Difficulty: Medium
 
 ## QUESTION
