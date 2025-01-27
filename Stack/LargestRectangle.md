@@ -1,4 +1,4 @@
-# 000. Largest Rectangle In Histogram
+# 84. Largest Rectangle In Histogram
 Difficulty: Hard
 
 ## QUESTION
