@@ -1,4 +1,4 @@
-# 000. Valid Anagram
+# 242. Valid Anagram
 Difficulty: Easy
 
 ## QUESTION
