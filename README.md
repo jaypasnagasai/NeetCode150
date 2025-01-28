@@ -30,6 +30,6 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 - [1. Two Sum](Arrays&Hashing/TwoSum.md)
 
 #### STACK [01/27/2025]
-- [49. - Group Anagrams](Arrays&Hashing/GroupAnarams.md)
+- [49. - Group Anagrams](Arrays&Hashing/GroupAnagrams.md)
 - [347. Top K Frequent Elements](Arrays&Hashing/TopKElements.md)
 - [271. Encode And Decode Strings](Arrays&Hashing/EncodeDecodeStrings.md)
