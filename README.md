@@ -24,12 +24,12 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 - [853. Car Fleet](Stack/CarFleet.md)
 - [84. Largest Rectangle In Histogram](Stack/LargestRectangle.md)
 
-#### STACK [01/26/2025]
+#### STACK [01/27/2025]
 - [217. - Contains Duplicate](Arrays&Hashing/ContainsDuplicate.md)
 - [242. Valid Anagram](Arrays&Hashing/ValidAnagram.md)
 - [1. Two Sum](Arrays&Hashing/TwoSum.md)
 
-#### STACK [01/27/2025]
+#### STACK [01/28/2025]
 - [49. - Group Anagrams](Arrays&Hashing/GroupAnagrams.md)
 - [347. Top K Frequent Elements](Arrays&Hashing/TopKElements.md)
 - [271. Encode And Decode Strings](Arrays&Hashing/EncodeDecodeStrings.md)
