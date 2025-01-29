@@ -1,4 +1,4 @@
-# 000. Valid Sudoku
+# 36. Valid Sudoku
 Difficulty: Medium
 
 ## QUESTION
