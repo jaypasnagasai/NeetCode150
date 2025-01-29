@@ -1,4 +1,4 @@
-# 000. Longest Consecutive Sequence
+# 128. Longest Consecutive Sequence
 Difficulty: Medium
 
 ## QUESTION
