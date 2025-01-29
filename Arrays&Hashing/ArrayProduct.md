@@ -1,4 +1,4 @@
-# 000. Products of Array Except Self
+# 238. Products of Array Except Self
 Difficulty: Medium
 
 ## QUESTION
