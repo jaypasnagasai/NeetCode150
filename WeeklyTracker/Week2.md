@@ -1,7 +1,7 @@
 #### BINARY SEARCH [01/30/2025]
-- [704. Binary Search](BinarySearch/BinarySearch.md)
-- [74. Search A 2D Matrix](BinarySearch/2DMatrix.md)
-- [875. Koko Eating Bananas](BinarySearch/EatingBananas.md)
+- [704. Binary Search](NeetCode150/BinarySearch/BinarySearch.md)
+- [74. Search A 2D Matrix](NeetCode150/BinarySearch/2DMatrix.md)
+- [875. Koko Eating Bananas](NeetCode150/BinarySearch/EatingBananas.md)
 
 #### TWO POINTER + STACK [01/31/2025]
 - []()
