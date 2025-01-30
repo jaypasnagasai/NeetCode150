@@ -4,3 +4,4 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 
 ## TABLE OF CONTENTS
 
+- (WEEK 1 [Jan 23 - Jan 29])[WeeklyTracker/Week1.md]
