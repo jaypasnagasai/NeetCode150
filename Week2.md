@@ -3,10 +3,10 @@
 - [74. Search A 2D Matrix](BinarySearch/2DMatrix.md)
 - [875. Koko Eating Bananas](BinarySearch/EatingBananas.md)
 
-#### TWO POINTER + STACK [01/31/2025]
-- []()
-- []()
-- []()
+#### BINARY SEARCH [01/31/2025]
+- [153. Find Minimum in Rotated Sorted Array](BinarySearch/FindMinRSA.md)
+- [33. Search in Rotated Sorted Array](BinarySearch/SearchRSA.md)
+- [981. Time Based Key-Value Store](BinarySearch/KeyValueStore.md)
 
 #### STACK [02/01/2025]
 - []()
