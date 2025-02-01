@@ -1,4 +1,4 @@
-# 000. Search in Rotated Sorted Array
+# 33. Search in Rotated Sorted Array
 Difficulty: Medium
 
 ## QUESTION
