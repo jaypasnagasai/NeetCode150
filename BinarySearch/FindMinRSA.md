@@ -1,4 +1,4 @@
-# 000. Name
+# 000. Find Minimum in Rotated Sorted Array
 Difficulty: Medium
 
 ## QUESTION
