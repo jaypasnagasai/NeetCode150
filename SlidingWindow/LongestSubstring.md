@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 3. Longest Substring Without Repeating Characters
+Difficulty: Medium
 
 ## QUESTION
 
