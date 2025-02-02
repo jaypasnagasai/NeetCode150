@@ -11,7 +11,7 @@
 #### BINARY SEARCH + SLIDING WINDOW [02/01/2025]
 - [4. Median of Two Sorted Arrays](BinarySearch/ArrayMedian.md)
 - [121. Best Time to Buy and Sell Stock](SlidingWindow/Stocks.md)
-- [121. Best Time to Buy and Sell Stock](SlidingWindow/LongestSubstring.md)
+- [3. Longest Substring Without Repeating Characters](SlidingWindow/LongestSubstring.md)
 
 #### STACK [02/02/2025]
 - []()
