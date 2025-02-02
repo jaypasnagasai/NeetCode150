@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 4. Median of Two Sorted Arrays
+Difficulty: Hard
 
 ## QUESTION
 
