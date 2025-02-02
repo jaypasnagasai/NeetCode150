@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 121. Best Time to Buy and Sell Stock
+Difficulty: Easy
 
 ## QUESTION
 
