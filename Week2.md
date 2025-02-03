@@ -18,10 +18,10 @@
 - [567. Permutation in String](SlidingWindow/StringPermutation.md)
 - [76. Minimum Window Substring](SlidingWindow/WindowSubstring.md)
 
-#### ARRAYS & HASHING [02/03/2025]
-- []()
-- []()
-- []()
+#### SLIDING WINDOW +  [02/03/2025]
+- [239. Sliding Window Maximum](SlidingWindow/SlidingWindow.md)
+- [206. Reverse Linked List](LinkedList/ReverseLinkedList.md)
+- [21. Merge Two Sorted Lists](LinkedList/MergeSortedLists.md)
 
 #### ARRAYS & HASHING [02/04/2025]
 - []()
