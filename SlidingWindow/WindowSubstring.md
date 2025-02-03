@@ -1,5 +1,5 @@
 # 76. Minimum Window Substring
-Difficulty: HARD
+Difficulty: Hard
 
 ## QUESTION
 
