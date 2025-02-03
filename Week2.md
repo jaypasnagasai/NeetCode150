@@ -13,10 +13,10 @@
 - [121. Best Time to Buy and Sell Stock](SlidingWindow/Stocks.md)
 - [3. Longest Substring Without Repeating Characters](SlidingWindow/LongestSubstring.md)
 
-#### STACK [02/02/2025]
-- []()
-- []()
-- []()
+#### SLIDING WINDOW [02/02/2025]
+- [424. Longest Repeating Character Replacement](SlidingWindow/LongestCharacter.md)
+- [567. Permutation in String](SlidingWindow/StringPermutation.md)
+- [76. Minimum Window Substring](SlidingWindow/WindowSubstring.md)
 
 #### ARRAYS & HASHING [02/03/2025]
 - []()
