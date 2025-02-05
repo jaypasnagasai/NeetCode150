@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 2. Add Two Numbers
+Difficulty: Medium
 
 ## QUESTION
 
