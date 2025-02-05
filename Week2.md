@@ -28,7 +28,7 @@
 - [143. Reorder List](LinkedList/ReorderList.md)
 - [19. Remove Nth Node From End of List](LinkedList/RemoveNode.md)
 
-#### LINKED LIST [01/29/2025]
+#### LINKED LIST [02/05/2025]
 - [138. Copy List with Random Pointer](LinkedList/CopyList.md)
 - [2. Add Two Numbers](LinkedList/AddTwoNumbers.md)
 - [287. Find the Duplicate Number](LinkedList/DuplicateNumber.md)
