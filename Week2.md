@@ -23,10 +23,10 @@
 - [206. Reverse Linked List](LinkedList/ReverseLinkedList.md)
 - [21. Merge Two Sorted Lists](LinkedList/MergeSortedLists.md)
 
-#### ARRAYS & HASHING [02/04/2025]
-- []()
-- []()
-- []()
+#### LINKED LIST [02/04/2025]
+- [141. Linked List Cycle](LinkedList/LinkedListCycle.md)
+- [143. Reorder List](LinkedList/ReorderList.md)
+- [19. Remove Nth Node From End of List](LinkedList/RemoveNode.md)
 
 #### ARRAYS & HASHING [01/29/2025]
 - []()
