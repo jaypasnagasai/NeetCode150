@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 287. Find the Duplicate Number
+Difficulty: Medium
 
 ## QUESTION
 
