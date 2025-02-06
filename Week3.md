@@ -1,6 +1,6 @@
 #### LINKED LIST [02/06/2025]
 - [146. LRU Cache](LinkedList/LRUCache.md)
-- [23. Merge K Sorted Lists](LinkedList/MergeSortedLists.md)
+- [23. Merge K Sorted Lists](LinkedList/MergeKSortedLists.md)
 - [25. Reverse Nodes in K-Group](LinkedList/ReverseNodes.md)
 
 #### TBD [02/07/2025]
