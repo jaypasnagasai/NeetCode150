@@ -3,10 +3,10 @@
 - [23. Merge K Sorted Lists](LinkedList/MergeKSortedLists.md)
 - [25. Reverse Nodes in K-Group](LinkedList/ReverseNodes.md)
 
-#### TBD [02/07/2025]
-- [153. Find Minimum in Rotated Sorted Array](BinarySearch/FindMinRSA.md)
-- [33. Search in Rotated Sorted Array](BinarySearch/SearchRSA.md)
-- [981. Time Based Key-Value Store](BinarySearch/KeyValueStore.md)
+#### TREES [02/07/2025]
+- [226. Invert Binary Tree](Trees/InvertBinaryTree.md)
+- [104. Maximum Depth of Binary Tree](Trees/MaximumDepth.md)
+- [543. Diameter of Binary Tree](Trees/Diameter.md)
 
 #### TBD [02/08/2025]
 - [4. Median of Two Sorted Arrays](BinarySearch/ArrayMedian.md)
