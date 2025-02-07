@@ -4,7 +4,7 @@
 - [25. Reverse Nodes in K-Group](LinkedList/ReverseNodes.md)
 
 #### TREES [02/07/2025]
-- [226. Invert Binary Tree](Trees/InvertBinaryTree.md)
+- [226. Invert Binary Tree](Trees/InvertBinaryTrees.md)
 - [104. Maximum Depth of Binary Tree](Trees/MaximumDepth.md)
 - [543. Diameter of Binary Tree](Trees/Diameter.md)
 
