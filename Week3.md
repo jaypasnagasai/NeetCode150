@@ -6,12 +6,12 @@
 #### TREES [02/07/2025]
 - [226. Invert Binary Tree](Trees/InvertBinaryTrees.md)
 - [104. Maximum Depth of Binary Tree](Trees/MaximumDepth.md)
-- [543. Diameter of Binary Tree](Trees/Diameter.md)
+- [543. Diameter of Binary Tree](Trees/Subtree.md)
 
-#### TBD [02/08/2025]
-- [4. Median of Two Sorted Arrays](BinarySearch/ArrayMedian.md)
-- [121. Best Time to Buy and Sell Stock](SlidingWindow/Stocks.md)
-- [3. Longest Substring Without Repeating Characters](SlidingWindow/LongestSubstring.md)
+#### TREES [02/08/2025]
+- [110. Balanced Binary Tree](Trees/BalancedBinaryTree.md)
+- [100. Same Tree](Trees/SameTree.md)
+- [572. Subtree of Another Tree](Trees/InvertBinaryTrees.md)
 
 #### TBD [02/09/2025]
 - [424. Longest Repeating Character Replacement](SlidingWindow/LongestCharacter.md)
