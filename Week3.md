@@ -13,10 +13,10 @@
 - [100. Same Tree](Trees/SameTree.md)
 - [572. Subtree of Another Tree](Trees/InvertBinaryTrees.md)
 
-#### TBD [02/09/2025]
-- [424. Longest Repeating Character Replacement](SlidingWindow/LongestCharacter.md)
-- [567. Permutation in String](SlidingWindow/StringPermutation.md)
-- [76. Minimum Window Substring](SlidingWindow/WindowSubstring.md)
+#### TREES [02/09/2025]
+- [235. Lowest Common Ancestor of a Binary Search Tree](Trees/LowestAncestor.md)
+- [102. Binary Tree Level Order Traversal](Trees/BinaryTreeTransversal.md)
+- [199. Binary Tree Right Side View](Trees/RightSideView.md)
 
 #### TBD [02/10/2025]
 - [239. Sliding Window Maximum](SlidingWindow/SlidingWindow.md)
