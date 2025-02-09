@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 235. Lowest Common Ancestor of a Binary Search Tree
+Difficulty: Medium
 
 ## QUESTION
 
