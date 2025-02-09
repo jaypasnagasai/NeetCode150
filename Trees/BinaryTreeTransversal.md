@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 102. Binary Tree Level Order Traversal
+Difficulty: Medium
 
 ## QUESTION
 
