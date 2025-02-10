@@ -18,10 +18,10 @@
 - [102. Binary Tree Level Order Traversal](Trees/BinaryTreeTransversal.md)
 - [199. Binary Tree Right Side View](Trees/RightSideView.md)
 
-#### TBD [02/10/2025]
-- [239. Sliding Window Maximum](SlidingWindow/SlidingWindow.md)
-- [206. Reverse Linked List](LinkedList/ReverseLinkedList.md)
-- [21. Merge Two Sorted Lists](LinkedList/MergeSortedLists.md)
+#### TREES [02/10/2025]
+- [1448. Count Good Nodes in Binary Tree](Trees/CountGoodNodes.md)
+- [98. Validate Binary Search Tree](Trees/Validate.md)
+- [230. Kth Smallest Element in a BST](Trees/SmallestElement.md)
 
 #### TBD [02/11/2025]
 - [141. Linked List Cycle](LinkedList/LinkedListCycle.md)
