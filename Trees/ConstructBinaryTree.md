@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 105. Construct Binary Tree from Preorder and Inorder Traversal
+Difficulty: Medium
 
 ## QUESTION
 
