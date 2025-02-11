@@ -26,7 +26,7 @@
 #### TREES [02/11/2025]
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](Trees/ConstructBinaryTree.md)
 - [124. Binary Tree Maximum Path Sum](Trees/MaximumPathSum.md)
-- [124. Binary Tree Maximum Path Sum](Trees/SerializeAndDeserialize.md)
+- [297. Serialize and Deserialize Binary Tree](Trees/SerializeAndDeserialize.md)
 
 #### TBD [02/12/2025]
 - [138. Copy List with Random Pointer](LinkedList/CopyList.md)
