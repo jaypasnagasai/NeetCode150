@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 124. Binary Tree Maximum Path Sum
+Difficulty: Hard
 
 ## QUESTION
 
