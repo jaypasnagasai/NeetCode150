@@ -23,10 +23,10 @@
 - [98. Validate Binary Search Tree](Trees/Validate.md)
 - [230. Kth Smallest Element in a BST](Trees/SmallestElement.md)
 
-#### TBD [02/11/2025]
-- [141. Linked List Cycle](LinkedList/LinkedListCycle.md)
-- [143. Reorder List](LinkedList/ReorderList.md)
-- [19. Remove Nth Node From End of List](LinkedList/RemoveNode.md)
+#### TREES [02/11/2025]
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](Trees/ConstructBinaryTree.md)
+- [124. Binary Tree Maximum Path Sum](Trees/MaximumPathSum.md)
+- [124. Binary Tree Maximum Path Sum](Trees/SerializeAndDeserialize.md)
 
 #### TBD [02/12/2025]
 - [138. Copy List with Random Pointer](LinkedList/CopyList.md)
