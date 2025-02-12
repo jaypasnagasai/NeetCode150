@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 211. Design Add and Search Words Data Structure
+Difficulty: Hard
 
 ## QUESTION
 
