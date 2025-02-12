@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 208. Implement Trie (Prefix Tree)
+Difficulty: Medium
 
 ## QUESTION
 
