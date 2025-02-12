@@ -28,7 +28,7 @@
 - [124. Binary Tree Maximum Path Sum](Trees/MaximumPathSum.md)
 - [297. Serialize and Deserialize Binary Tree](Trees/SerializeAndDeserialize.md)
 
-#### TBD [02/12/2025]
-- [138. Copy List with Random Pointer](LinkedList/CopyList.md)
-- [2. Add Two Numbers](LinkedList/AddTwoNumbers.md)
-- [287. Find the Duplicate Number](LinkedList/DuplicateNumber.md)
+#### TRIE [02/12/2025]
+- [208. Implement Trie (Prefix Tree)](Trie/ImplementTrie.md)
+- [211. Design Add and Search Words Data Structure](Trie/DesignDataStructure.md)
+- [212. Word Search II](Trie/WordSearchII.md)
