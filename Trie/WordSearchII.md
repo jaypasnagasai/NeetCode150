@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 212. Word Search II
+Difficulty: Hard
 
 ## QUESTION
 
