@@ -3,10 +3,10 @@
 - [90. Subsets II](Backtracking/SubsetsII.md)
 - [78. Subsets](Backtracking/Subsets.md)
 
-#### TBD [02/14/2025]
-- [226. Invert Binary Tree](Trees/InvertBinaryTrees.md)
-- [104. Maximum Depth of Binary Tree](Trees/MaximumDepth.md)
-- [543. Diameter of Binary Tree](Trees/Subtree.md)
+#### BACKTRACKING [02/14/2025]
+- [46. Permutations](Backtracking/Permutations.md)
+- [131. Palindrome Partitioning](Backtracking/Palindrome.md)
+- [51. N-Queens](Backtracking/NQueens.md)
 
 #### TBD [02/15/2025]
 - [110. Balanced Binary Tree](Trees/BalancedBinaryTree.md)
