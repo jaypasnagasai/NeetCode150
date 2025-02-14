@@ -1,4 +1,4 @@
-# 000. Name
+# 51. N-Queens
 Difficulty: Hard
 
 ## QUESTION
