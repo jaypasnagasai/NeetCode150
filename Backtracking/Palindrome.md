@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 131. Palindrome Partitioning
+Difficulty: Medium
 
 ## QUESTION
 
