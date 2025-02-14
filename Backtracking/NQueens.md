@@ -1,5 +1,5 @@
 # 000. Name
-Difficulty: Easy/Medium/Hard
+Difficulty: Hard
 
 ## QUESTION
 
