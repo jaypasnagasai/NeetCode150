@@ -7,7 +7,7 @@ The n-queens puzzle is the problem of placing `n` queens on an `n x n` chessboar
 
 A queen in a chessboard can attack horizontally, vertically, and diagonally.
 
-Given an integer ` n`, return all distinct solutions to the n-queens puzzle.
+Given an integer `n`, return all distinct solutions to the n-queens puzzle.
 
 Each solution contains a unique board layout where the queen pieces are placed. `'Q'` indicates a queen and `'.'` indicates an empty space.
 
