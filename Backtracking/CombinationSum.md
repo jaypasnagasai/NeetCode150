@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 39. Combination Sum
+Difficulty: Medium
 
 ## QUESTION
 
