@@ -8,10 +8,10 @@
 - [131. Palindrome Partitioning](Backtracking/Palindrome.md)
 - [51. N-Queens](Backtracking/NQueens.md)
 
-#### TBD [02/15/2025]
-- [110. Balanced Binary Tree](Trees/BalancedBinaryTree.md)
-- [100. Same Tree](Trees/SameTree.md)
-- [572. Subtree of Another Tree](Trees/InvertBinaryTrees.md)
+#### BACKTRACKING [02/15/2025]
+- [17. Letter Combinations of a Phone Number](Backtracking/LetterCombinations.md)
+- [40. Combination Sum II](Backtracking/CombinationSumII.md)
+- [39. Combination Sum](Backtracking/CombinationSum.md)
 
 #### TBD [02/16/2025]
 - [235. Lowest Common Ancestor of a Binary Search Tree](Trees/LowestAncestor.md)
