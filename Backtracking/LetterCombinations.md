@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 17. Letter Combinations of a Phone Number
+Difficulty: Medium
 
 ## QUESTION
 
