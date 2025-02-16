@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 1046. Last Stone Weight
+Difficulty: Easy
 
 ## QUESTION
 
