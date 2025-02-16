@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 973. K Closest Points to Origin
+Difficulty: Medium
 
 ## QUESTION
 
