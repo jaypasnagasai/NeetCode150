@@ -13,10 +13,10 @@
 - [40. Combination Sum II](Backtracking/CombinationSumII.md)
 - [39. Combination Sum](Backtracking/CombinationSum.md)
 
-#### TBD [02/16/2025]
-- [235. Lowest Common Ancestor of a Binary Search Tree](Trees/LowestAncestor.md)
-- [102. Binary Tree Level Order Traversal](Trees/BinaryTreeTransversal.md)
-- [199. Binary Tree Right Side View](Trees/RightSideView.md)
+#### HEAP [02/16/2025]
+- [703. Kth Largest Element in a Stream](Heap/LargestElement.md)
+- [1046. Last Stone Weight](Heap/LastStoneWeight.md)
+- [973. K Closest Points to Origin](Heap/ClosestPoints.md)
 
 #### TBD [02/17/2025]
 - [1448. Count Good Nodes in Binary Tree](Trees/CountGoodNodes.md)
