@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 703. Kth Largest Element in a Stream
+Difficulty: Easy
 
 ## QUESTION
 
