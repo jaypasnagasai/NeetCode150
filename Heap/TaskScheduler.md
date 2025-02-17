@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 621. Task Scheduler
+Difficulty: Medium
 
 ## QUESTION
 
