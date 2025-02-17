@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 355. Design Twitter
+Difficulty: Medium
 
 ## QUESTION
 
