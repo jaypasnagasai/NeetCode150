@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 215. Kth Largest Element in an Array
+Difficulty: Medium
 
 ## QUESTION
 
