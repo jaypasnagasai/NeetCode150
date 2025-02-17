@@ -18,10 +18,10 @@
 - [1046. Last Stone Weight](Heap/LastStoneWeight.md)
 - [973. K Closest Points to Origin](Heap/ClosestPoints.md)
 
-#### TBD [02/17/2025]
-- [1448. Count Good Nodes in Binary Tree](Trees/CountGoodNodes.md)
-- [98. Validate Binary Search Tree](Trees/Validate.md)
-- [230. Kth Smallest Element in a BST](Trees/SmallestElement.md)
+#### HEAP [02/17/2025]
+- [215. Kth Largest Element in an Array](Heap/LargestElementArray.md)
+- [621. Task Scheduler](Heap/TaskScheduler.md)
+- [355. Design Twitter](Heap/DesignTwitter.md)
 
 #### TBD [02/18/2025]
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](Trees/ConstructBinaryTree.md)
