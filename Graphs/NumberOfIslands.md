@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 200. Number of Islands
+Difficulty: Medium
 
 ## QUESTION
 
