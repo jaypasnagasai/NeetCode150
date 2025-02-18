@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 695. Max Area of Island
+Difficulty: Medium
 
 ## QUESTION
 
