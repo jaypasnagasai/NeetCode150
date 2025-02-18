@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 295. Find Median from Data Stream
+Difficulty: Hard
 
 ## QUESTION
 
