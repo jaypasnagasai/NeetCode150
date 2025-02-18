@@ -23,10 +23,10 @@
 - [621. Task Scheduler](Heap/TaskScheduler.md)
 - [355. Design Twitter](Heap/DesignTwitter.md)
 
-#### TBD [02/18/2025]
-- [105. Construct Binary Tree from Preorder and Inorder Traversal](Trees/ConstructBinaryTree.md)
-- [124. Binary Tree Maximum Path Sum](Trees/MaximumPathSum.md)
-- [297. Serialize and Deserialize Binary Tree](Trees/SerializeAndDeserialize.md)
+#### HEAP + GRAPHS [02/18/2025]
+- [295. Find Median from Data Stream](Heap/FindMedian.md)
+- [200. Number of Islands](Graphs/NumberOfIslands.md)
+- [695. Max Area of Island](Graphs/MaxArea.md)
 
 #### TBD [02/19/2025]
 - [208. Implement Trie (Prefix Tree)](Trie/ImplementTrie.md)
