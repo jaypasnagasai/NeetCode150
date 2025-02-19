@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 133. Clone Graph
+Difficulty: Medium
 
 ## QUESTION
 
