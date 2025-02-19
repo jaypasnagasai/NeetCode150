@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 994. Rotting Oranges
+Difficulty: Medium
 
 ## QUESTION
 
