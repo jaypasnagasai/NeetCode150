@@ -28,7 +28,7 @@
 - [200. Number of Islands](Graphs/NumberOfIslands.md)
 - [695. Max Area of Island](Graphs/MaxArea.md)
 
-#### TBD [02/19/2025]
-- [208. Implement Trie (Prefix Tree)](Trie/ImplementTrie.md)
-- [211. Design Add and Search Words Data Structure](Trie/DesignDataStructure.md)
-- [212. Word Search II](Trie/WordSearchII.md)
+#### GRAPHS [02/19/2025]
+- [133. Clone Graph](Graphs/CloneGraph.md)
+- [286. Walls And Gates](Graphs/WallsAndGates.md)
+- [994. Rotting Oranges](Graphs/RottingOranges.md)
