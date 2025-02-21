@@ -3,15 +3,15 @@
 - [130. Surrounded Regions](Graphs/SurroundedRegions.md)
 - [207. Course Schedule](Graphs/CourseSchedule.md)
 
-#### BACKTRACKING [02/14/2025]
-- [46. Permutations](Backtracking/Permutations.md)
-- [131. Palindrome Partitioning](Backtracking/Palindrome.md)
-- [51. N-Queens](Backtracking/NQueens.md)
+#### GRAPHS [02/21/2025]
+- [210. Course Schedule II](Graphs/CourseScheduleII.md)
+- [261. Graph Valid Tree](Graphs/GraphValidTree.md)
+- [321. Number of Connected Components In An Undirected Graph](Graphs/CorrectedComponents.md)
 
 #### BACKTRACKING [02/15/2025]
 - [17. Letter Combinations of a Phone Number](Backtracking/LetterCombinations.md)
 - [40. Combination Sum II](Backtracking/CombinationSumII.md)
-- [39. Combination Sum](Backtracking/CombinationSum.md)
+- [39. Combination Sum](Backtracking/CorrectedComponents.md)
 
 #### HEAP [02/16/2025]
 - [703. Kth Largest Element in a Stream](Heap/LargestElement.md)
