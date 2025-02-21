@@ -1,4 +1,4 @@
-# 000. Name
+# 207. Course Schedule
 Difficulty: Medium
 
 ## QUESTION
