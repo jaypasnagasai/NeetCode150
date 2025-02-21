@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 321. Number of Connected Components In An Undirected Graph
+Difficulty: Medium
 
 ## QUESTION
 
