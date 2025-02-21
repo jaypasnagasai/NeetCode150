@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 261. Graph Valid Tree
+Difficulty: Medium
 
 ## QUESTION
 
