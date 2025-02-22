@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 127. Word Ladder
+Difficulty: Hard
 
 ## QUESTION
 
