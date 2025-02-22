@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 684. Redundant Connection
+Difficulty: Medium
 
 ## QUESTION
 
