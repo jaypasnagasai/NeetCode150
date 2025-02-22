@@ -8,10 +8,10 @@
 - [261. Graph Valid Tree](Graphs/GraphValidTree.md)
 - [321. Number of Connected Components In An Undirected Graph](Graphs/CorrectedComponents.md)
 
-#### BACKTRACKING [02/15/2025]
-- [17. Letter Combinations of a Phone Number](Backtracking/LetterCombinations.md)
-- [40. Combination Sum II](Backtracking/CombinationSumII.md)
-- [39. Combination Sum](Backtracking/CorrectedComponents.md)
+#### GRAPHS + 1D DYANMIC PRORGAMMING [02/22/2025]
+- [684. Redundant Connection](Graphs/RedundantConnection.md)
+- [127. Word Ladder](Graphs/WordLadder.md)
+- [70. Climbing Stairs](1DDP/ClimbingStairs.md)
 
 #### HEAP [02/16/2025]
 - [703. Kth Largest Element in a Stream](Heap/LargestElement.md)
