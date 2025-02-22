@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 70. Climbing Stairs
+Difficulty: Easy
 
 ## QUESTION
 
