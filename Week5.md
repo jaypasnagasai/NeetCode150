@@ -13,10 +13,10 @@
 - [127. Word Ladder](Graphs/WordLadder.md)
 - [70. Climbing Stairs](1DDP/ClimbingStairs.md)
 
-#### HEAP [02/16/2025]
-- [703. Kth Largest Element in a Stream](Heap/LargestElement.md)
-- [1046. Last Stone Weight](Heap/LastStoneWeight.md)
-- [973. K Closest Points to Origin](Heap/ClosestPoints.md)
+#### 1D DYNAMIC PROGRAMMING [02/23/2025]
+- [746. Min Cost Climbing Stairs](1DDP/ClimbingStairs.md)
+- [198. House Robber](1DDP/HouseRobber.md)
+- [213. House Robber II](1DDP/HouseRobberII.md)
 
 #### HEAP [02/17/2025]
 - [215. Kth Largest Element in an Array](Heap/LargestElementArray.md)
