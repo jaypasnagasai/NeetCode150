@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 198. House Robber
+Difficulty: Medium
 
 ## QUESTION
 
