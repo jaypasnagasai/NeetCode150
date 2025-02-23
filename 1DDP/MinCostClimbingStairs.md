@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 746. Min Cost Climbing Stairs
+Difficulty: Easy
 
 ## QUESTION
 
