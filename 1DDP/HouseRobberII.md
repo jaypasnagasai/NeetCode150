@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 213. House Robber II
+Difficulty: Medium
 
 ## QUESTION
 
