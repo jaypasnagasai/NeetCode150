@@ -14,7 +14,7 @@
 - [70. Climbing Stairs](1DDP/ClimbingStairs.md)
 
 #### 1D DYNAMIC PROGRAMMING [02/23/2025]
-- [746. Min Cost Climbing Stairs](1DDP/ClimbingStairs.md)
+- [746. Min Cost Climbing Stairs](1DDP/MinCostClimbingStairs.md)
 - [198. House Robber](1DDP/HouseRobber.md)
 - [213. House Robber II](1DDP/HouseRobberII.md)
 
