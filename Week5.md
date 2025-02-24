@@ -18,7 +18,7 @@
 - [198. House Robber](1DDP/HouseRobber.md)
 - [213. House Robber II](1DDP/HouseRobberII.md)
 
-#### HEAP [02/17/2025]
+#### 1D DYNAMIC PROGRAMMING [02/24/2025]
 - [215. Kth Largest Element in an Array](Heap/LargestElementArray.md)
 - [621. Task Scheduler](Heap/TaskScheduler.md)
 - [355. Design Twitter](Heap/DesignTwitter.md)
