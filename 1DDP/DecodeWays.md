@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 91. Decode Ways
+Difficulty: Medium
 
 ## QUESTION
 
