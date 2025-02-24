@@ -19,9 +19,9 @@
 - [213. House Robber II](1DDP/HouseRobberII.md)
 
 #### 1D DYNAMIC PROGRAMMING [02/24/2025]
-- [215. Kth Largest Element in an Array](Heap/LargestElementArray.md)
-- [621. Task Scheduler](Heap/TaskScheduler.md)
-- [355. Design Twitter](Heap/DesignTwitter.md)
+- [5. Longest Palindromic Substring](1DDP/LongestPalindromeString.md)
+- [647. Palindromic Substrings](1DDP/PalindromicSubstrings.md)
+- [91. Decode Ways](1DDP/DecodeWays.md)
 
 #### HEAP + GRAPHS [02/18/2025]
 - [295. Find Median from Data Stream](Heap/FindMedian.md)
