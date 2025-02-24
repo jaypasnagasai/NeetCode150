@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 5. Longest Palindromic Substring
+Difficulty: Medium
 
 ## QUESTION
 
