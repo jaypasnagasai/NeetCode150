@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 647. Palindromic Substrings
+Difficulty: Medium
 
 ## QUESTION
 
