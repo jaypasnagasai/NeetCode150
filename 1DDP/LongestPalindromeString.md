@@ -80,6 +80,41 @@ class Solution:
         return s[resIdx : resIdx + resLen]
 ```
 
+### APPROACH: TWO POINTER
+
+```python
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        # Initialize variables to store the starting index and length of the longest palindrome
+        resIdx = 0
+        resLen = 0
+
+        # Iterate through each character in the string as a potential center
+        for i in range(len(s)):
+            # Check for odd-length palindromes centered at index i
+            l, r = i, i
+            while l >= 0 and r < len(s) and s[l] == s[r]:
+                # Update result if the current palindrome is longer
+                if (r - l + 1) > resLen:
+                    resIdx = l  # Update starting index
+                    resLen = r - l + 1  # Update palindrome length
+                l -= 1  # Expand left
+                r += 1  # Expand right
+
+            # Check for even-length palindromes centered between i and i+1
+            l, r = i, i + 1
+            while l >= 0 and r < len(s) and s[l] == s[r]:
+                # Update result if the current palindrome is longer
+                if (r - l + 1) > resLen:
+                    resIdx = l  # Update starting index
+                    resLen = r - l + 1  # Update palindrome length
+                l -= 1  # Expand left
+                r += 1  # Expand right
+
+        # Return the longest palindromic substring
+        return s[resIdx : resIdx + resLen]
+```
+
 ### APPROACH: MANACHER's ALGORITHM
 
 ```python
