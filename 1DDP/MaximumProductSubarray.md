@@ -1,4 +1,4 @@
-# 000. Name
+# 152. Maximum Product Subarray
 Difficulty: Medium
 
 ## QUESTION
