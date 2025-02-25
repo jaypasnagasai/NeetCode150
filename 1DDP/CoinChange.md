@@ -1,4 +1,4 @@
-# 000. Name
+# 322. Coin Change
 Difficulty: Medium
 
 ## QUESTION
