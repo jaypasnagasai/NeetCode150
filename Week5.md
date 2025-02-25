@@ -23,10 +23,10 @@
 - [647. Palindromic Substrings](1DDP/PalindromicSubstrings.md)
 - [91. Decode Ways](1DDP/DecodeWays.md)
 
-#### HEAP + GRAPHS [02/18/2025]
-- [295. Find Median from Data Stream](Heap/FindMedian.md)
-- [200. Number of Islands](Graphs/NumberOfIslands.md)
-- [695. Max Area of Island](Graphs/MaxArea.md)
+#### 1D DYNAMIC PROGRAMMING [02/25/2025]
+- [322. Coin Change](1DDP/CoinChange.md)
+- [152. Maximum Product Subarray](1DDP/MaximumProductSubarray.md)
+- [139. Word Break](1DDP/WordBreak.md)
 
 #### GRAPHS [02/19/2025]
 - [133. Clone Graph](Graphs/CloneGraph.md)
