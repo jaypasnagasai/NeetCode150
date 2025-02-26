@@ -28,7 +28,7 @@
 - [152. Maximum Product Subarray](1DDP/MaximumProductSubarray.md)
 - [139. Word Break](1DDP/WordBreak.md)
 
-#### GRAPHS [02/19/2025]
-- [133. Clone Graph](Graphs/CloneGraph.md)
-- [286. Walls And Gates](Graphs/WallsAndGates.md)
-- [994. Rotting Oranges](Graphs/RottingOranges.md)
+#### 1D DYNAMIC PROGRAMMING + INTERVALS [02/25/2025]
+- [133. Clone Graph](1DDP/LongestIncreasingSubsequence.md)
+- [286. Walls And Gates](1DDP/PartitionEqualSubsetSum.md)
+- [994. Rotting Oranges](Intervals/InsertInterval.md)
