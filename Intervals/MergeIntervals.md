@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 56. Merge Intervals
+Difficulty: Medium
 
 ## QUESTION
 
