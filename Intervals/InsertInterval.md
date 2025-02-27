@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 57. Insert Interval
+Difficulty: Medium
 
 ## QUESTION
 
