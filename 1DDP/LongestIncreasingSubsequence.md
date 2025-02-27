@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 300. Longest Increasing Subsequence
+Difficulty: Medium
 
 ## QUESTION
 
