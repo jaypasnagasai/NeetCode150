@@ -9,3 +9,5 @@ Mastering Leetcode has been a challenging journey for me. To improve, I've decid
 - [WEEK 3 (Feb 06 - Feb 12)](Week3.md)
 - [WEEK 4 (Feb 13 - Feb 19)](Week4.md)
 - [WEEK 5 (Feb 20 - Feb 26)](Week5.md)
+- [WEEK 6 (Feb 27 - Mar 05)](Week6.md)
+  
