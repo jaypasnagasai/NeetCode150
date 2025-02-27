@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 435. Non-overlapping Intervals
+Difficulty: Medium
 
 ## QUESTION
 
