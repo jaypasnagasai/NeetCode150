@@ -29,6 +29,6 @@
 - [139. Word Break](1DDP/WordBreak.md)
 
 #### 1D DYNAMIC PROGRAMMING + INTERVALS [02/25/2025]
-- [133. Clone Graph](1DDP/LongestIncreasingSubsequence.md)
-- [286. Walls And Gates](1DDP/PartitionEqualSubsetSum.md)
-- [994. Rotting Oranges](Intervals/InsertInterval.md)
+- [300. Longest Increasing Subsequence](1DDP/LongestIncreasingSubsequence.md)
+- [416. Partition Equal Subset Sum](1DDP/PartitionEqualSubsetSum.md)
+- [57. Insert Interval](Intervals/InsertInterval.md)
