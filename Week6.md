@@ -3,10 +3,10 @@
 - [435. Non-overlapping Intervals](Intervals/NonOverlappingIntervals.md)
 - [920. Meeting Rooms](Intervals/MeetingRooms.md)
 
-#### GRAPHS [02/21/2025]
-- [210. Course Schedule II](Graphs/CourseScheduleII.md)
-- [261. Graph Valid Tree](Graphs/GraphValidTree.md)
-- [321. Number of Connected Components In An Undirected Graph](Graphs/CorrectedComponents.md)
+#### INTERVALS + GREEDY [02/27/2025]
+- [253. Meeting Rooms](Intervals/MeetingRoomsII.md)
+- [1851. Minimum Interval to Include Each Query](Intervals/MinIntervalQuery.md)
+- [53. Maximum Subarray](Greedy/MaxSubarray.md)
 
 #### GRAPHS + 1D DYANMIC PRORGAMMING [02/22/2025]
 - [684. Redundant Connection](Graphs/RedundantConnection.md)
