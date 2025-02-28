@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 253. Meeting Rooms II
+Difficulty: Medium
 
 ## QUESTION
 
