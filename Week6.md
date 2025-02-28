@@ -4,7 +4,7 @@
 - [920. Meeting Rooms](Intervals/MeetingRooms.md)
 
 #### INTERVALS + GREEDY [02/27/2025]
-- [253. Meeting Rooms](Intervals/MeetingRoomsII.md)
+- [253. Meeting Rooms II](Intervals/MeetingRoomsII.md)
 - [1851. Minimum Interval to Include Each Query](Intervals/MinIntervalQuery.md)
 - [53. Maximum Subarray](Greedy/MaxSubarray.md)
 
