@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 1851. Minimum Interval to Include Each Query
+Difficulty: Hard
 
 ## QUESTION
 
