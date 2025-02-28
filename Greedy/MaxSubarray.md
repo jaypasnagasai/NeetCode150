@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 53. Maximum Subarray
+Difficulty: Medium
 
 ## QUESTION
 
