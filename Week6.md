@@ -8,10 +8,10 @@
 - [1851. Minimum Interval to Include Each Query](Intervals/MinIntervalQuery.md)
 - [53. Maximum Subarray](Greedy/MaxSubarray.md)
 
-#### GRAPHS + 1D DYANMIC PRORGAMMING [02/22/2025]
-- [684. Redundant Connection](Graphs/RedundantConnection.md)
-- [127. Word Ladder](Graphs/WordLadder.md)
-- [70. Climbing Stairs](1DDP/ClimbingStairs.md)
+#### GREEDY [03/01/2025]
+- [55. Jump Game](Greedy/JumpRoom.md)
+- [45. Jump Game II](Greedy/JumpRoomII.md)
+- [134. Gas Station](Greedy/GasStation.md)
 
 #### 1D DYNAMIC PROGRAMMING [02/23/2025]
 - [746. Min Cost Climbing Stairs](1DDP/MinCostClimbingStairs.md)
