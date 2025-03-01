@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 45. Jump Game II
+Difficulty: Medium
 
 ## QUESTION
 
