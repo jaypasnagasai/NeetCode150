@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 678. Valid Parenthesis String
+Difficulty: Medium
 
 ## QUESTION
 
