@@ -18,10 +18,10 @@
 - [1899. Merge Triplets to Form Target Triplet](Greedy/MergeTriplets.md)
 - [763. Partition Labels](Greedy/MergePartition.md)
 
-#### 1D DYNAMIC PROGRAMMING [02/24/2025]
-- [5. Longest Palindromic Substring](1DDP/LongestPalindromeString.md)
-- [647. Palindromic Substrings](1DDP/PalindromicSubstrings.md)
-- [91. Decode Ways](1DDP/DecodeWays.md)
+#### GREEDY + ADVANCED GRAPHS [03/03/2025]
+- [678. Valid Parenthesis String](Greedy/ValidParenthesisString.md)
+- [743. Network Delay Time](AdvancedGraphs/NetworkDelayTime.md)
+- [332. Reconstruct Itinerary](AdvancedGraphs/ReconstructItinerary.md)
 
 #### 1D DYNAMIC PROGRAMMING [02/25/2025]
 - [322. Coin Change](1DDP/CoinChange.md)
