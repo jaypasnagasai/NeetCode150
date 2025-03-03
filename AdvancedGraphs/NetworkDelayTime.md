@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 743. Network Delay Time
+Difficulty: Medium
 
 ## QUESTION
 
