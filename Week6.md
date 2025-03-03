@@ -13,10 +13,10 @@
 - [45. Jump Game II](Greedy/JumpRoomII.md)
 - [134. Gas Station](Greedy/GasStation.md)
 
-#### 1D DYNAMIC PROGRAMMING [02/23/2025]
-- [746. Min Cost Climbing Stairs](1DDP/MinCostClimbingStairs.md)
-- [198. House Robber](1DDP/HouseRobber.md)
-- [213. House Robber II](1DDP/HouseRobberII.md)
+#### GREEDY [03/02/2025]
+- [846. Hand of Straights](Greedy/HandOfStraights.md)
+- [1899. Merge Triplets to Form Target Triplet](Greedy/MergeTriplets.md)
+- [763. Partition Labels](Greedy/MergePartition.md)
 
 #### 1D DYNAMIC PROGRAMMING [02/24/2025]
 - [5. Longest Palindromic Substring](1DDP/LongestPalindromeString.md)
