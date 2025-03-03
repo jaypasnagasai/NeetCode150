@@ -1,4 +1,4 @@
-# 000. Name
+# 846. Hand of Straights
 Difficulty: Medium
 
 ## QUESTION
