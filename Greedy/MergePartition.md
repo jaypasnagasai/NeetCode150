@@ -1,4 +1,4 @@
-# 000. Name
+# 763. Partition Labels
 Difficulty: Medium
 
 ## QUESTION
