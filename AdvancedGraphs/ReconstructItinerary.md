@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 332. Reconstruct Itinerary
+Difficulty: Hard
 
 ## QUESTION
 
