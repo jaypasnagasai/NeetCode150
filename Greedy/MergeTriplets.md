@@ -1,4 +1,4 @@
-# 000. Name
+# 1899. Merge Triplets to Form Target Triplet
 Difficulty: Medium
 
 ## QUESTION
