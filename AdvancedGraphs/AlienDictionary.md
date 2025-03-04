@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 269. Alien Dictionary
+Difficulty: Hard
 
 ## QUESTION
 
