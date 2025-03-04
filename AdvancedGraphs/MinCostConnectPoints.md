@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 1584. Min Cost to Connect All Points
+Difficulty: Medium
 
 ## QUESTION
 
