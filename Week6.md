@@ -23,10 +23,10 @@
 - [743. Network Delay Time](AdvancedGraphs/NetworkDelayTime.md)
 - [332. Reconstruct Itinerary](AdvancedGraphs/ReconstructItinerary.md)
 
-#### 1D DYNAMIC PROGRAMMING [02/25/2025]
-- [322. Coin Change](1DDP/CoinChange.md)
-- [152. Maximum Product Subarray](1DDP/MaximumProductSubarray.md)
-- [139. Word Break](1DDP/WordBreak.md)
+#### ADVANCED GRAPHS [03/04/2025]
+- [1584. Min Cost to Connect All Points](AdvancedGraphs/MinCostConnectPoints.md)
+- [778. Swim in Rising Water](AdvancedGraphs/SwimInRisingWater.md)
+- [269. Alien Dictionary](AdvancedGraphs/AlienDictionary.md)
 
 #### 1D DYNAMIC PROGRAMMING + INTERVALS [02/25/2025]
 - [300. Longest Increasing Subsequence](1DDP/LongestIncreasingSubsequence.md)
