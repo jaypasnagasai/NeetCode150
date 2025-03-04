@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 778. Swim in Rising Water
+Difficulty: Hard
 
 ## QUESTION
 
