@@ -28,7 +28,7 @@
 - [778. Swim in Rising Water](AdvancedGraphs/SwimInRisingWater.md)
 - [269. Alien Dictionary](AdvancedGraphs/AlienDictionary.md)
 
-#### 1D DYNAMIC PROGRAMMING + INTERVALS [02/25/2025]
-- [300. Longest Increasing Subsequence](1DDP/LongestIncreasingSubsequence.md)
-- [416. Partition Equal Subset Sum](1DDP/PartitionEqualSubsetSum.md)
-- [57. Insert Interval](Intervals/InsertInterval.md)
+#### ADVANCED GRAPHS + 2D DYNAMIC PROGRAMMING [03/05/2025]
+- [787. Cheapest Flights Within K Stops](AdvancedGraphs/CheapestFlights.md)
+- [62. Unique Paths](2DDP/UniquePaths.md)
+- [1143. Longest Common Subsequence](2DDP/LongestCommonSubsequence.md)
