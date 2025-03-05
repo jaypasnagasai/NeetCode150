@@ -1,4 +1,4 @@
-# 000. Name
+# 62. Unique Paths
 Difficulty: Medium
 
 ## QUESTION
