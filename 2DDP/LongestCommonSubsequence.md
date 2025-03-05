@@ -1,4 +1,4 @@
-# 000. Name
+# 1143. Longest Common Subsequence
 Difficulty: Medium
 
 ## QUESTION
