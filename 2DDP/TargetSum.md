@@ -1,4 +1,4 @@
-# 000. Name
+# 494. Target Sum
 Difficulty: Medium
 
 ## QUESTION
