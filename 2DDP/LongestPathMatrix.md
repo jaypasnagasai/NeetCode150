@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 329. Longest Increasing Path in a Matrix
+Difficulty: Hard
 
 ## QUESTION
 
