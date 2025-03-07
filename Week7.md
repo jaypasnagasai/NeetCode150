@@ -3,10 +3,10 @@
 - [518. Coin Change II](2DDP/CoinChangeII.md)
 - [494. Target Sum](2DDP/TargetSum.md)
 
-#### INTERVALS + GREEDY [02/28/2025]
-- [253. Meeting Rooms II](Intervals/MeetingRoomsII.md)
-- [1851. Minimum Interval to Include Each Query](Intervals/MinIntervalQuery.md)
-- [53. Maximum Subarray](Greedy/MaxSubarray.md)
+#### 2D DYNAMIC PROGRAMMING [03/07/2025]
+- [97. Interleaving String](2DDP/InterleavingString.md)
+- [329. Longest Increasing Path in a Matrix](2DDP/LongestPathMatrix.md)
+- [115. Distinct Subsequences](2DDP/DistinctSubsequences.md)
 
 #### GREEDY [03/01/2025]
 - [55. Jump Game](Greedy/JumpRoom.md)
