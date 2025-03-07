@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 97. Interleaving String
+Difficulty: Medium
 
 ## QUESTION
 
