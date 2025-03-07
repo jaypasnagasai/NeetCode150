@@ -1,5 +1,5 @@
-# 000. Name
-Difficulty: Easy/Medium/Hard
+# 115. Distinct Subsequences
+Difficulty: Hard
 
 ## QUESTION
 
