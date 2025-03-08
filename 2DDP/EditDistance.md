@@ -1,4 +1,4 @@
-# 000. Name
+# 72. Edit Distance
 Difficulty: Medium
 
 ## QUESTION
