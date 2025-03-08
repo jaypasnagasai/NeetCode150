@@ -8,10 +8,10 @@
 - [329. Longest Increasing Path in a Matrix](2DDP/LongestPathMatrix.md)
 - [115. Distinct Subsequences](2DDP/DistinctSubsequences.md)
 
-#### GREEDY [03/01/2025]
-- [55. Jump Game](Greedy/JumpRoom.md)
-- [45. Jump Game II](Greedy/JumpRoomII.md)
-- [134. Gas Station](Greedy/GasStation.md)
+#### 2D DYNAMIC PROGRAMMING [03/08/2025]
+- [72. Edit Distance](2DDP/EditDistance.md)
+- [312. Burst Balloons](2DDP/BurstBalloons.md)
+- [10. Regular Expression Matching](2DDP/RegularExpressionMatching.md)
 
 #### GREEDY [03/02/2025]
 - [846. Hand of Straights](Greedy/HandOfStraights.md)
