@@ -1,4 +1,4 @@
-# 000. Name
+# 312. Burst Balloons
 Difficulty: Hard
 
 ## QUESTION
