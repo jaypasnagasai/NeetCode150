@@ -13,10 +13,10 @@
 - [312. Burst Balloons](2DDP/BurstBalloons.md)
 - [10. Regular Expression Matching](2DDP/RegularExpressionMatching.md)
 
-#### GREEDY [03/02/2025]
-- [846. Hand of Straights](Greedy/HandOfStraights.md)
-- [1899. Merge Triplets to Form Target Triplet](Greedy/MergeTriplets.md)
-- [763. Partition Labels](Greedy/MergePartition.md)
+#### BIT MANIPULATION [03/09/2025]
+- [136. Single Number](BitManipulation/SingleNumber.md)
+- [191. Number of 1 Bits](BitManipulation/NumberOf1Bits.md)
+- [338. Counting Bits](BitManipulation/CountingBits.md)
 
 #### GREEDY + ADVANCED GRAPHS [03/03/2025]
 - [678. Valid Parenthesis String](Greedy/ValidParenthesisString.md)
