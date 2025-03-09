@@ -1,4 +1,4 @@
-# 000. Name
+# 338. Counting Bits
 Difficulty: Easy
 
 ## QUESTION
