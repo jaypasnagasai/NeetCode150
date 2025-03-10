@@ -1,4 +1,4 @@
-# 000. Name
+# 190. Reverse Bits
 Difficulty: Easy
 
 ## QUESTION
