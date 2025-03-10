@@ -1,4 +1,4 @@
-# 000. Name
+# 268. Missing Number
 Difficulty: Easy
 
 ## QUESTION
