@@ -18,10 +18,10 @@
 - [191. Number of 1 Bits](BitManipulation/NumberOf1Bits.md)
 - [338. Counting Bits](BitManipulation/CountingBits.md)
 
-#### GREEDY + ADVANCED GRAPHS [03/03/2025]
-- [678. Valid Parenthesis String](Greedy/ValidParenthesisString.md)
-- [743. Network Delay Time](AdvancedGraphs/NetworkDelayTime.md)
-- [332. Reconstruct Itinerary](AdvancedGraphs/ReconstructItinerary.md)
+#### BIT MANIPULATION [03/10/2025]
+- [190. Reverse Bits](BitManipulation/ReverseBits.md)
+- [268. Missing Number](BitManipulation/MissingNumber.md)
+- [371. Sum of Two Integers](BitManipulation/SumOfTwoIntegers.md)
 
 #### ADVANCED GRAPHS [03/04/2025]
 - [1584. Min Cost to Connect All Points](AdvancedGraphs/MinCostConnectPoints.md)
