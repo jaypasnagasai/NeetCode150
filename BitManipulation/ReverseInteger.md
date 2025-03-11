@@ -1,4 +1,4 @@
-# 000. Name
+# 7. Reverse Integer
 Difficulty: Medium
 
 ## QUESTION
