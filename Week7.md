@@ -28,7 +28,12 @@
 - [48. Rotate Image](Math/RotateImage.md)
 - [54. Spiral Matrix](Math/SpiralMatrix.md)
 
-#### ADVANCED GRAPHS + 2D DYNAMIC PROGRAMMING [03/05/2025]
-- [787. Cheapest Flights Within K Stops](AdvancedGraphs/CheapestFlights.md)
-- [62. Unique Paths](2DDP/UniquePaths.md)
-- [1143. Longest Common Subsequence](2DDP/LongestCommonSubsequence.md)
+#### MATH [03/12/2025]
+- [787. Cheapest Flights Within K Stops](Math/CheapestFlights.md)
+- [62. Unique Paths](Math/UniquePaths.md)
+- [1143. Longest Common Subsequence](Math/LongestCommonSubsequence.md)
+
+#### MATH [03/13/2025]
+- [787. Cheapest Flights Within K Stops](Math/CheapestFlights.md)
+- [62. Unique Paths](Math/UniquePaths.md)
+- [1143. Longest Common Subsequence](Math/LongestCommonSubsequence.md)
