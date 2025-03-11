@@ -1,4 +1,4 @@
-# 000. Name
+# 48. Rotate Image
 Difficulty: Medium
 
 ## QUESTION
