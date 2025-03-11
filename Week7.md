@@ -23,10 +23,10 @@
 - [268. Missing Number](BitManipulation/MissingNumber.md)
 - [371. Sum of Two Integers](BitManipulation/SumOfTwoIntegers.md)
 
-#### ADVANCED GRAPHS [03/04/2025]
-- [1584. Min Cost to Connect All Points](AdvancedGraphs/MinCostConnectPoints.md)
-- [778. Swim in Rising Water](AdvancedGraphs/SwimInRisingWater.md)
-- [269. Alien Dictionary](AdvancedGraphs/AlienDictionary.md)
+#### BIT MANIPULATION + MATH [03/11/2025]
+- [7. Reverse Integer](BitManipulation/ReverseInteger.md)
+- [48. Rotate Image](Math/RotateImage.md)
+- [54. Spiral Matrix](Math/SpiralMatrix.md)
 
 #### ADVANCED GRAPHS + 2D DYNAMIC PROGRAMMING [03/05/2025]
 - [787. Cheapest Flights Within K Stops](AdvancedGraphs/CheapestFlights.md)
