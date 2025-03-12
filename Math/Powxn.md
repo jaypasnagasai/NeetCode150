@@ -1,4 +1,4 @@
-# 000. Name
+# 50. Pow(x, n)
 Difficulty: Medium
 
 ## QUESTION
