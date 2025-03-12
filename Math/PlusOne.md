@@ -1,4 +1,4 @@
-# 000. Name
+# 66. Plus One
 Difficulty: Easy
 
 ## QUESTION
