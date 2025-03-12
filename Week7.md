@@ -29,11 +29,11 @@
 - [54. Spiral Matrix](Math/SpiralMatrix.md)
 
 #### MATH [03/12/2025]
-- [787. Cheapest Flights Within K Stops](Math/CheapestFlights.md)
-- [62. Unique Paths](Math/UniquePaths.md)
-- [1143. Longest Common Subsequence](Math/LongestCommonSubsequence.md)
+- [73. Set Matrix Zeroes](Math/SetMatrixZeroes.md)
+- [202. Happy Number](Math/HappyNumber.md)
+- [66. Plus One](Math/PlusOne.md)
 
 #### MATH [03/13/2025]
-- [787. Cheapest Flights Within K Stops](Math/CheapestFlights.md)
-- [62. Unique Paths](Math/UniquePaths.md)
-- [1143. Longest Common Subsequence](Math/LongestCommonSubsequence.md)
+- [50. Pow(x, n)](Math/Powxn.md)
+- [43. Multiply Strings](Math/MultiplyStrings.md)
+- [2013. Detect Squares](Math/DetectSquares.md)
