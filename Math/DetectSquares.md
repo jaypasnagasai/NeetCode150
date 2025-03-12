@@ -1,4 +1,4 @@
-# 000. Name
+# 2013. Detect Squares
 Difficulty: Medium
 
 ## QUESTION
