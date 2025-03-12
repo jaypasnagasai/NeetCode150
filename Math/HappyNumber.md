@@ -1,4 +1,4 @@
-# 000. Name
+# 202. Happy Number
 Difficulty: Easy
 
 ## QUESTION
