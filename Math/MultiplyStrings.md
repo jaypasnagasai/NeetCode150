@@ -1,4 +1,4 @@
-# 000. Name
+# 43. Multiply Strings
 Difficulty: Medium
 
 ## QUESTION
