@@ -1,4 +1,4 @@
-# 000. Name
+# 73. Set Matrix Zeroes
 Difficulty: Medium
 
 ## QUESTION
